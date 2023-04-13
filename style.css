@@ -1,0 +1,15 @@
+header {
+    background-color: #000000;
+    }
+    .cabeçalho {
+        background-color: #ff0000;
+        color: rgb(255, 255, 255);
+        display:flex;
+
+        justify-content: space-around;
+        }
+.cabeçalho-imagem{
+
+    width: 20%;
+
+}
